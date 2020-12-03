@@ -2,19 +2,23 @@
   color: aqua;
   font-size: 18px;
 }
+
 .two {
   color: aqua;
   font-size: 34px;
   text-align: center;
 }
+
 .three {
   color: white;
   font-size: 22px;
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
+
 .four {
   background-color: goldenrod;
   padding: 18px;
   width: 250px;
   height: 250px;
 }
+\n
